@@ -1,1 +1,1 @@
-greenlet==1.1.1
+greenlet==1.1.2
